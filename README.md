@@ -1,19 +1,20 @@
-<h2> Hi! My name is Patricio, and I'm a Full Stack GIS Developer from :🇦🇷</h2> 
-<h3> I currently work at Geosystems S.A., where we provide geospatial (GIS) solutions for both public and private organizations</h3>
-<h3>I help design and build applications and tools that make geographic data more accessible and useful.</h3>
+# Full Stack GIS Developer
 
----
+## About me
 
-<h2> Contact me: </h2>
+Hi! My name is Patricio, and I'm a Full Stack GIS Developer from :🇦🇷
 
-<a href="https://www.linkedin.com/in/patricio-pagano/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
->
-</a>
+I currently work at Geosystems S.A., where we provide geospatial (GIS) solutions for both public and private organizations
 
----
+I help design and build applications and tools that make geographic data more accessible and useful.
 
-<h2> Programming Languages </h2>
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-pagano)
+
+
+## Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
