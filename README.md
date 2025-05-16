@@ -1,4 +1,6 @@
-<h2> Hi! My name is Patricio, and I'm a Full Stack GIS Developer. I currently work at Geosystems S.A., where we provide geospatial (GIS) solutions for both public and private organizations. I help design and build applications and tools that make geographic data more accessible and useful. <h2>
+<h2> Hi! My name is Patricio, and I'm a Full Stack GIS Developer from :🇦🇷</h2> 
+<h3> I currently work at Geosystems S.A., where we provide geospatial (GIS) solutions for both public and private organizations</h3>
+<h3>I help design and build applications and tools that make geographic data more accessible and useful.</h3>
 
 ---
 
